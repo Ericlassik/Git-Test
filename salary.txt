@@ -3,3 +3,5 @@ ifeanyi $10,000,000
 eric $90,000,000,000
 ebere $ 80,000,000
 chichi $50,000,000
+
+salaries 
